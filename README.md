@@ -1,28 +1,61 @@
-# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
+# Adding sunglass to image project
 
-Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
+## ✨ Overview
+It is a fun and creative image processing project that adds stylish sunglasses to photos. It transforms simple passport-size images into cool, enhanced visuals using basic computer vision techniques.
 
-Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
+---
 
-## Features:
-- Detects the face in an image.
-- Places a stylish sunglass overlay perfectly on the face.
-- Works seamlessly with individual passport-size photos.
-- Customizable for different sunglasses styles or photo types.
+## 🎯 Project Description
+This project demonstrates how image processing can be used to detect a face and overlay sunglasses accurately. It is designed to be simple, interactive, and beginner-friendly, making it perfect for learning and experimentation.
 
-## Technologies Used:
-- Python
-- OpenCV for image processing
-- Numpy for array manipulations
+---
 
-## How to Use:
-1. Clone this repository.
-2. Add your passport-sized photo to the `images` folder.
-3. Run the script to see your "cool" transformation!
+## 🚀 Features
+- Detects faces in an image  
+- Adds sunglasses overlay automatically  
+- Works best with passport-size photos  
+- Easy to customize with different sunglasses styles  
+- Simple and beginner-friendly implementation  
 
-## Applications:
-- Learning basic image processing techniques.
-- Adding flair to your photos for fun.
-- Practicing computer vision workflows.
+---
 
-Feel free to fork, contribute, or customize this project for your creative needs!
+## 🛠️ Technologies Used
+- Python  
+- OpenCV (for image processing)  
+- NumPy (for array operations)  
+
+---
+
+## 📂 Project Structure
+- `main_sunglass.ipynb` → Main implementation  
+- `sunglass.png` → Sunglasses overlay image  
+- `abc.png` → Sample input/output image  
+- `README.md` → Project documentation  
+- `.gitignore` → Ignored files  
+- `LICENSE` → License information  
+
+---
+
+## ▶️ How to Use
+1. Clone the repository  
+2. Add your passport-size photo  
+3. Run the notebook/script  
+4. Get your photo with a cool sunglasses effect 😎  
+
+---
+
+## 🌟 Applications
+- Learning basic image processing concepts  
+- Practicing computer vision techniques  
+- Creating fun photo filters  
+- Beginner-friendly OpenCV project  
+
+---
+## Done by :
+Name : clarissa k
+
+## 📌 Conclusion
+This project is a simple and fun way to explore image processing using OpenCV. It helps beginners understand how overlays and face-based transformations work in real-world applications.
+
+---
+
